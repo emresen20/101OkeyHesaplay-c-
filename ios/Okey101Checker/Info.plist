@@ -48,5 +48,15 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+
+	<key>NSCameraUsageDescription</key>
+	<string>Kamerayı fotoğraf çekmek için kullanıyoruz.</string>
+
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Fotoğrafları kaydetmek ve erişmek için izin gerekiyor.</string>
+
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Çekilen fotoğrafı galeriye kaydetmek için gereklidir.</string>
+
 </dict>
 </plist>
